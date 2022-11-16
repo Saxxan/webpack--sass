@@ -1,0 +1,5 @@
+/* CSS code here is processed by Webpack
+*  
+*  Import the css file in the js file that compiles the application
+*  The file is in the entry field of the webpack.config.js
+*/
